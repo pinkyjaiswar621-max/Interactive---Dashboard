@@ -1,2 +1,7 @@
-# Interactive---Dashboard
-I develop a comprehensive project in excel, creating multiple dashboards and tables to analyze the data .This process involved several stages including data processing ,  data cleaning and data visualization.
+# Interactive-Dashboard
+## Project Object
+To analyze sales performance across different years, regions, categories, and customer segments using an interactive Excel dashboard, enabling quick insights and data-driven business decisions.
+## Dataset used
+- <a href="https://goo.su/NUIbC"> Dataset</a>
+## Questions (KPIs)
+
