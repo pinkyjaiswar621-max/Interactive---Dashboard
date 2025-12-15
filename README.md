@@ -14,4 +14,5 @@ To analyze sales performance across different years, regions, categories, and cu
 - Which regions or cities show the lowest performance and need improvement?
 - How has year-over-year revenue changed across regions?
 - What is the total quantity of goods sold across all regions?
-- Dashboard Interaction 
+- Dashboard Interaction <a href="https://github.com/pinkyjaiswar621-max/Interactive---Dashboard/blob/main/Dashboard%20in%20Excel.png"> View Dashboar</a>
+
