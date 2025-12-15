@@ -22,10 +22,12 @@ To analyze sales performance across different years, regions, categories, and cu
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
 <img width="1311" height="677" alt="Dashboard in Excel" src="https://github.com/user-attachments/assets/ab394468-93ed-4ccf-a1f0-698bb29e3b9e" />
+
 ## Project Insight
 Revenue shows consistent growth across years, with stronger performance in recent quarters.
 Technology category and Consumer segment contribute the highest share of sales.
 West and East regions outperform other regions in revenue generation.
 Key cities act as major revenue drivers, while some regions show scope for improvement.
+
 ## Final Conclusion
 The dashboard effectively summarizes sales performance across time, regions, categories, and segments using interactive Excel visuals. It supports quick, data-driven decision-making.
